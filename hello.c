@@ -14,13 +14,10 @@ int main(void) {
         i += j;
         printf("Updated i = %d", i);
     }
-
-
-
-
-   for(int i = 0; i < 10; i++){
-      printf("%i", i*i);
-   }
+    
+    for(int i = 0; i < 10; i++){
+        printf("%i", i*i);
+    }
 
     printf("Git Lab Friday session running nicely");
 
