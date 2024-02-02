@@ -1,3 +1,11 @@
 #include <stdio.h>
 
-printf("Hello world!");
+int main(void) {
+
+    int i = 5;
+    printf("Hello world!");
+
+    printf("%d", i);
+
+    return 0;
+}
