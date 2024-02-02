@@ -1,15 +1,6 @@
-
-
-
-
-
- i was here  
-
-
 # ToolsPractice
 Pushing some new text
 
-james 
-README edited by Sam and AHmed
+README edited by Sam and Ahmed
 
 Fixed up by James 
